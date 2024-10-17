@@ -1,7 +1,7 @@
 
 # Virtual Mouse
 
-to start install the following packages :
+control desktop cursor with your hands🖐
 
 
 ## Installation
